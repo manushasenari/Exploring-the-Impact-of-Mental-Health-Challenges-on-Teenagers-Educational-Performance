@@ -1,0 +1,2 @@
+# Exploring-the-Impact-of-Mental-Health-Challenges-on-Teenagers-Educational-Performance
+This project explores how mental health challenges affect teenagers' academic performance using data analysis with Python.It includes an app built with Power Apps, offering tools like guided breathing, music relaxation, drawing pictures, reading a book, and relaxation activities to support mental well-being and improve outcomes.
