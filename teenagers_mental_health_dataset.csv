@@ -1,0 +1,51 @@
+Id,Age,Department,Gender,Stress_Level,Stress_Sources,Sleep_Hours,Academic_Performance,Relaxation_Activities,Physical_Activity,Social_Media_Usage,Social_Media_Impact,Financial stress,Preferred_App_Features
+1,20,FMSH,Female,Very High,Academic Pressure,6,A,Sports,Moderate,Heavy Use,Positively,Moderate,Music
+2,24,FMSH,Male,Moderate,No Data,5,D,Gaming,Low,Heavy Use,Negatively,Low,Books
+3,19,FOE,Male,High,Academic Pressure,8,D,Listening to Music,Low,Moderate Use,Positively,Moderate,"Books, Games, Music, Chatbot"
+4,21,FMSM,Female,Very Low,No Data,5,A,Gaming,Low,Moderate Use,Negatively,Moderate,Chatbot
+5,20,FOE,Male,Moderate,No Data,6,A,Gaming,Low,Heavy Use,Positively,High,"Games, Music, Chatbot, Books"
+6,20,FOE,Female,High,Academic Pressure,6,C,Sports,Moderate,Light Use,Positively,High,"Books, Chatbot, Games, Music"
+7,24,FMSH,Male,Low,No Data,7,A,Sports,Moderate,Light Use,Negatively,Moderate,Books
+8,19,FMSH,Female,High,Academic Pressure,8,A,Reading,Low,Moderate Use,Positively,Low,Chatbot
+9,20,FMSH,Male,Very High,Academic Pressure,8,B,Reading,Low,Moderate Use,Positively,Moderate,Music
+10,22,FOC,Female,High,Academic Pressure,4,C,Reading,Moderate,Light Use,Positively,Low,"Games, Music, Chatbot, Books"
+11,24,FMSH,Male,Very Low,No Data,5,D,Sports,Low,Heavy Use,Positively,Moderate,Music
+12,20,FOE,Male,Very Low,No Data,8,A,Listening to Music,Moderate,Light Use,Positively,Moderate,"Books, Games, Chatbot, Music"
+13,21,FMSH,Female,Very High,Academic Pressure,6,C,Sports,Moderate,Light Use,Positively,Moderate,Chatbot
+14,21,FMSH,Male,Moderate,No Data,4,D,Sports,Moderate,Heavy Use,Positively,High,Games
+15,22,FOE,Male,High,Academic Pressure,7,C,Sports,Low,Light Use,Negatively,Moderate,"Music, Games, Chatbot, Books"
+16,19,FOC,Male,Moderate,No Data,7,B,Gaming,Low,Heavy Use,Positively,Moderate,"Games, Music, Chatbot, Books"
+17,20,FOC,Male,Moderate,No Data,8,B,Gaming,Low,Heavy Use,Positively,Moderate,"Music, Games, Books, Chatbot"
+18,22,FOE,Male,High,Academic Pressure,6,A,Listening to Music,Low,Moderate Use,Negatively,High,"Chatbot, Books, Music"
+19,23,FOE,Female,Moderate,No Data,6,A,Gaming,Moderate,Light Use,Positively,Moderate,"Books, Games"
+20,23,FMSH,Male,Moderate,No Data,4,B,Gaming,High,Heavy Use,Negatively,Low,Games
+21,22,FMSH,Male,High,Academic Pressure,5,A,Sports,Moderate,Heavy Use,Positively,Low,"Chatbot, Books"
+22,20,FMSH,Male,Moderate,No Data,8,A,Sports,High,Moderate Use,Positively,High,"Games, Chatbot, Books"
+23,21,FMSH,Male,High,Academic Pressure,5,C,Gaming,Moderate,Heavy Use,Positively,High,"Books, Games, Chatbot, Music"
+24,19,FOE,Male,Very High,Academic Pressure,5,B,Listening to Music,Low,Heavy Use,Positively,Low,"Chatbot, Books"
+25,19,FMSH,Male,High,Academic Pressure,8,C,Listening to Music,Moderate,Heavy Use,Positively,Low,"Chatbot, Music"
+26,19,FOE,Male,High,Academic Pressure,8,D,Listening to Music,Moderate,Heavy Use,Positively,High,"Games, Music"
+27,20,FMSH,Female,Very Low,No Data,7,C,Sports,High,Heavy Use,Negatively,High,"Games, Music"
+28,24,FOE,Male,Very High,Academic Pressure,4,B,Sports,Moderate,Light Use,Negatively,Moderate,"Games, Music, Books, Chatbot"
+29,23,FOC,Female,Very High,Academic Pressure,5,B,Listening to Music,Moderate,Heavy Use,Negatively,Moderate,"Chatbot, Music, Games, Books"
+30,23,FMSH,Female,Very High,Academic Pressure,4,A,Reading,High,Heavy Use,Positively,Moderate,Books
+31,22,FOC,Male,Very High,Academic Pressure,4,A,Gaming,Low,Heavy Use,Negatively,Moderate,"Chatbot, Books, Games, Music"
+32,22,FMSM,Female,High,Academic Pressure,5,A,Sports,Moderate,Moderate Use,Positively,High,Chatbot
+33,21,FOE,Female,Very Low,No Data,4,C,Others,Low,Heavy Use,Positively,Moderate,"Books, Chatbot"
+34,22,FOE,Male,Very High,Academic Pressure,7,D,Others,Low,Light Use,Positively,High,"Chatbot, Games, Books"
+35,23,FMSH,Male,Very Low,No Data,6,C,Others,High,Heavy Use,Positively,Moderate,Games
+36,23,FOE,Female,High,Academic Pressure,5,B,Others,High,Heavy Use,Negatively,Low,"Chatbot, Music, Books"
+37,21,FOE,Male,Moderate,No Data,4,C,Gaming,Moderate,Moderate Use,Positively,High,"Games, Chatbot"
+38,21,FMSM,Female,High,Academic Pressure,4,D,Reading,Moderate,Moderate Use,Negatively,Moderate,Games
+39,21,FOE,Female,Low,No Data,7,C,Reading,Moderate,Moderate Use,Positively,Moderate,"Books, Music, Games"
+40,23,FOE,Female,High,Academic Pressure,5,C,Others,Moderate,Heavy Use,Negatively,Low,"Books, Games, Music, Chatbot"
+41,22,FOE,Female,Moderate,Academic Pressure,4,C,Sports,Moderate,Heavy Use,Positively,Moderate,"Music, Books, Chatbot, Games"
+42,20,FMSH,Female,Low,No Data,8,D,Gaming,High,Heavy Use,Positively,High,Books
+43,22,FOE,Female,Low,No Data,6,D,Reading,Moderate,Heavy Use,Negatively,Moderate,"Music, Books, Chatbot, Games"
+44,21,FOC,Female,High,Academic Pressure,4,B,Reading,Low,Moderate Use,Negatively,Moderate,"Music, Chatbot, Books"
+45,21,FOE,Female,High,Academic Pressure,7,A,Gaming,Moderate,Heavy Use,Negatively,Moderate,"Books, Music, Games, Chatbot"
+46,20,FMSH,Female,Very Low,No Data,4,C,Sports,Moderate,Moderate Use,Positively,High,"Games, Books, Chatbot, Music"
+47,20,FOE,Male,Very High,Academic Pressure,4,C,Others,Low,Moderate Use,Positively,Low,"Books, Games, Music"
+48,21,FOC,Female,Very Low,No Data,6,C,Others,Low,Heavy Use,Negatively,Low,"Chatbot, Books"
+49,21,FOC,Female,High,Academic Pressure,8,D,Reading,Low,Heavy Use,Positively,Moderate,"Chatbot, Games, Books"
+50,22,FMSH,Female,Moderate,Academic Pressure,4,C,Sports,Moderate,Heavy Use,Positively,,"Music, Games, Chatbot, Books"
